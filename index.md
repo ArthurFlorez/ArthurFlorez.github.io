@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pagina visión por computador
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
