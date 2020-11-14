@@ -58,3 +58,9 @@
         }
     }
 </script>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-title="Aprendizaje-maquina"
+  agent-id="7643a447-ec32-450b-9e98-25d6a731ffe9"
+  language-code="es"
+></df-messenger>
